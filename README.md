@@ -28,8 +28,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
 </div>
